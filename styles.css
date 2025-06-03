@@ -215,6 +215,13 @@ body {
     color: var(--accent-color);
 }
 
+.personal-picture {
+    width: 60px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: var(--card-shadow);
+}
+
 .profile-video {
     width: 100%;
     border-radius: 0.5rem;
